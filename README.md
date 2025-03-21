@@ -1,4 +1,4 @@
-### 🚀 **Nidhi Kahar** | **Senior Frontend Engineer**
+# 🚀 **Nidhi Kahar** | **Senior Frontend Engineer**
 
 💻 React.js | React Native | Tailwind CSS | MUI | ShadCN
 
